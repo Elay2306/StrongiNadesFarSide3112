@@ -1,0 +1,124 @@
+[
+  {
+    "name": ["Canal Stairs", "Bombsite B"],
+    "description": "Front",
+    "weapon": "weapon_molotov",
+    "position": [-602.00427246094, -1126.7347412109, 59.046974182129],
+    "viewangles": [-22.126512527466, 115.08154296875],
+    "grenade": {
+      "delay": 5
+    }
+  },
+  {
+    "name": ["Canal Stairs", "Bombsite B"],
+    "description": "Back",
+    "weapon": "weapon_molotov",
+    "position": [-601.99822998047, -1126.7608642578, 59.054454803467],
+    "viewangles": [-24.576181411743, 111.58923339844],
+    "grenade": {
+      "run": 1,
+      "run_speed": true,
+      "delay": 1
+    }
+  },
+  {
+    "name": ["Walkway", "Construction"],
+    "description": "Sandbags & little bit ramp",
+    "weapon": "weapon_molotov",
+    "position": [-1967.8640136719, 74.285446166992, 128.03125],
+    "viewangles": [7.6135845184326, -38.624801635742],
+    "grenade": {
+      "strength": 0.5,
+      "run": 20,
+      "run_speed": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Walkway", "Construction"],
+    "description": "Ramp & Water",
+    "weapon": "weapon_molotov",
+    "position": [-1967.7557373047, 74.328475952148, 128.03125],
+    "viewangles": [5.3783855438232, -42.396667480469],
+    "grenade": {
+      "strength": 0.5,
+      "run": 8,
+      "run_speed": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Walkway", "Construction"],
+    "description": "Ramp & Sandbags",
+    "weapon": "weapon_molotov",
+    "position": [-1894.3813476563, 263.15539550781, 160.03125],
+    "viewangles": [5.8054094314575, -47.93189239502],
+    "grenade": {
+      "strength": 0.5,
+      "run": 20,
+      "run_speed": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Water", "Pillar and Fakeduck"],
+    "weapon": "weapon_molotov",
+    "position": [-1296.1212158203, -831.40808105469, 11.093928337097],
+    "viewangles": [-27.076057434082, 72.467582702637]
+  },
+  {
+    "name": ["Water", "Snipers Nest"],
+    "weapon": "weapon_molotov",
+    "position": [-1256.7911376953, -772.353515625, 14.469980239868],
+    "viewangles": [-4.5062260627747, 108.81769561768],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Fakeduck", "Water"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1230.7659912109, 438.76138305664, 44.65153503418],
+    "viewangles": [6.0418567657471, -91.747840881348],
+    "grenade": {
+      "run": 20,
+      "run_speed": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Fake Duck", "Upper Construction"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1179.0825195313, 495.96881103516, 58.093643188477],
+    "viewangles": [6.1710066795349, -87.443794250488],
+    "grenade": {
+      "run": 48,
+      "delay": 1,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Water", "Fake duck "],
+    "weapon": "weapon_hegrenade",
+    "position": [-1287.5963134766, -960.47515869141, 6.3284378051758],
+    "viewangles": [1.4895823001862, 82.934005737305],
+    "grenade": {
+      "run": 11,
+      "run_speed": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Canal", "Bombsite B"],
+    "description": "FIXED",
+    "weapon": "weapon_hegrenade",
+    "position": [-568.65338134766, -1158.8214111328, 66.149658203125],
+    "viewangles": [-19.00952911377, 111.42232513428],
+    "grenade": {
+      "strength": 0.5,
+      "run": 25,
+      "delay": 10,
+      "jump": true
+    }
+  }
+]

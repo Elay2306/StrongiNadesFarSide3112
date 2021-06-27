@@ -1,0 +1,65 @@
+[
+  {
+    "name": ["Outside", "Fake duck"],
+    "description": "Bomb Site",
+    "weapon": "weapon_molotov",
+    "position": [-278.34777832031, 340.7873840332, -33.154067993164],
+    "viewangles": [-15.954399108887, -84.331024169922],
+    "grenade": {
+      "run": 5
+    }
+  },
+  {
+    "name": ["Outside", "Connector"],
+    "description": "Bomb Site",
+    "weapon": "weapon_smokegrenade",
+    "position": [-597.4443359375, 597.56622314453, -187.96875],
+    "viewangles": [-18.351612091064, -76.5419921875],
+    "grenade": {
+      "run": 5,
+      "delay": 14,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Outside", "Fake duck"],
+    "description": "Test",
+    "weapon": "weapon_smokegrenade",
+    "position": [-415.96875, 943.80212402344, -191.65843200684],
+    "viewangles": [-10.893640518188, -80.754981994629],
+    "grenade": {
+      "run": 3,
+      "run_speed": true,
+      "delay": 4,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Outside", "Truck"],
+    "description": "Bombsite",
+    "weapon": "weapon_smokegrenade",
+    "position": [-699.96875, 408.68298339844, -188.97560119629],
+    "viewangles": [-27.587373733521, -64.116676330566]
+  },
+  {
+    "name": ["Outside", "Bombsite"],
+    "weapon": "weapon_flashbang",
+    "position": [-281.21246337891, 657.09307861328, -93.96875],
+    "viewangles": [1.2719156742096, -85.354095458984],
+    "grenade": {
+      "run": 6,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Street", "Back Alley"],
+    "description": "Popflash",
+    "weapon": "weapon_flashbang",
+    "position": [597.54742431641, 225.04235839844, 10.031251907349],
+    "viewangles": [-8.0625505447388, -100.75623321533],
+    "grenade": {
+      "run": 8
+    }
+  }
+]

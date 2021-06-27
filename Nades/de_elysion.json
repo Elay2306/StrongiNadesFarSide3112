@@ -1,0 +1,86 @@
+[
+  {
+    "name": ["Main Hall", "One way"],
+    "description": "Bomb Site",
+    "weapon": "weapon_molotov",
+    "position": [-142.96875, -455.96875, 9600.03125],
+    "viewangles": [-51.196876525879, 60.401653289795],
+    "grenade": {
+      "run": 8,
+      "delay": 2,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Main Hall", "One Way"],
+    "description": "Bomb Site",
+    "weapon": "weapon_hegrenade",
+    "position": [-142.96875, -455.96875, 9600.03125],
+    "viewangles": [-51.283664703369, 60.509906768799],
+    "grenade": {
+      "run": 8,
+      "delay": 2,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Main Hall ", "2nd Fake duck"],
+    "description": "Bomb Site A",
+    "weapon": "weapon_hegrenade",
+    "position": [539.97198486328, -409.37051391602, 9600.03125],
+    "viewangles": [7.8013262748718, 56.588256835938],
+    "grenade": {
+      "run": 15,
+      "recovery_jump": true,
+      "delay": 5,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Middle", "Fake Duck"],
+    "description": "Bomb Site A",
+    "weapon": "weapon_molotov",
+    "position": [-587.96875, -77.02758026123, 9664.03125],
+    "viewangles": [-3.3370707035065, 31.325996398926],
+    "grenade": {
+      "recovery_jump": true,
+      "delay": 4,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Middle", "Fake Duck"],
+    "description": "One Way",
+    "weapon": "weapon_hegrenade",
+    "position": [-844.96875, 376.47924804688, 9728.03125],
+    "viewangles": [-6.0250935554504, -22.615705490112],
+    "grenade": {
+      "run": 25
+    }
+  },
+  {
+    "name": ["Main Hall", "Bomb Site"],
+    "weapon": "weapon_flashbang",
+    "position": [-142.96875, -394.32235717773, 9644.0146484375],
+    "viewangles": [-12.998204231262, 31.169628143311],
+    "grenade": {
+      "delay": 10,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Main Hall", "Bomb Site"],
+    "description": "Popflash for site",
+    "weapon": "weapon_flashbang",
+    "position": [453.22131347656, -462.4953918457, 9600.03125],
+    "viewangles": [3.8593332767487, 42.394386291504],
+    "grenade": {
+      "strength": 0.5,
+      "run": 17,
+      "delay": 5,
+      "jump": true
+    }
+  }
+]

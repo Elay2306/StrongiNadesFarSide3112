@@ -54,6 +54,7 @@
   },
   {
     "name": ["1w", "Pit"],
+    "description": "For Legit Aim Left",
     "weapon": "weapon_molotov",
     "position": [650.03125, 790.23901367188, 1.3750305175781],
     "viewangles": [1.05497611, -2.39986753]

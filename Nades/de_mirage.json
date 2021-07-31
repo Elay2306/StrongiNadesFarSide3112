@@ -522,17 +522,6 @@
 	  }
 	},
 	{
-	  "name": ["T Spawn", "Market Door"],
-	  "weapon": "weapon_smokegrenade",
-	  "position": [1418.7062988281, 34.746635437012, -167.96875],
-	  "viewangles": [-27.230894088745, -165.96989440918],
-	  "grenade": {
-		"run": 28,
-		"run_yaw": -33,
-		"jump": true
-	  }
-	},
-	{
 	  "name": ["Palace Entrance", "Connector"],
 	  "weapon": "weapon_smokegrenade",
 	  "position": [1280.0413818359, -1052.6046142578, -167.96875],
@@ -583,17 +572,6 @@
 	  "viewangles": [-20.425506591797, -163.92390441895],
 	  "grenade": {
 		"run": 77,
-		"recovery_yaw": 0,
-		"jump": true
-	  }
-	},
-	{
-	  "name": ["T Spawn", "Between Jungle & Stairs"],
-	  "weapon": "weapon_smokegrenade",
-	  "position": [1422.96875, -55.96875, -167.96875],
-	  "viewangles": [-32.315643310547, -140.80200195313],
-	  "grenade": {
-		"run": 1,
 		"recovery_yaw": 0,
 		"jump": true
 	  }

@@ -9,6 +9,17 @@
       "delay": 5
     }
   },
+    {
+    "name": ["fakeduck", "Stairs"],
+    "description": "70HP",
+    "weapon": "weapon_hegrenade",
+    "position": [-2441.7731933594, 95.086837768555, 426.50506591797],
+    "viewangles": [-16.95078086853, 66.344512939453],
+    "grenade": {
+      "recovery_yaw": -90
+    },
+    "duck": true
+  },
   {
     "name": ["Canal Stairs", "Bombsite B"],
     "description": "Back",

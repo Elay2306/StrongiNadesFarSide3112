@@ -10,7 +10,8 @@
     }
   },
   {
-    "name": ["Ramp", "Car L"],
+    "name": ["Ramp", "Car R"],
+    "description": "already in built in legit",
     "weapon": "weapon_molotov",
     "position": [-1265.9670410156, 1011.6669921875, -171.78500366211],
     "viewangles": [-4.884, -22.028],
@@ -19,7 +20,8 @@
     }
   },
   {
-    "name": ["Stairs", "Car L"],
+    "name": ["Stairs", "Car R"],
+    "description": "already in built in legit",
     "weapon": "weapon_molotov",
     "position": [-1374.5100097656, 1379.1590576172, 0.030999999493361],
     "viewangles": [-19.439, -41.003],
@@ -29,6 +31,7 @@
   },
   {
     "name": ["Catwalk", "Car Top"],
+    "description": "already in legit built in",
     "weapon": "weapon_molotov",
     "position": [-861.96899414063, 957.95397949219, 0.030999999493361],
     "viewangles": [-18.778, -45.553],
@@ -86,6 +89,7 @@
   },
   {
     "name": ["Ramp", "Stairs"],
+    "description": "already in built in legit",
     "weapon": "weapon_molotov",
     "position": [-564.94897460938, 638.80102539063, -110.81900024414],
     "viewangles": [4.862, 135.277],
@@ -135,6 +139,7 @@
   },
   {
     "name": ["Tunnel", "Bombsite Center"],
+    "description": "already in built in legit",
     "weapon": "weapon_molotov",
     "position": [695.97399902344, 1296.2900390625, 32.03099822998],
     "viewangles": [-6.38, -160.144],
@@ -211,17 +216,6 @@
     "viewangles": [-15.788867950439, -104.50703430176]
   },
   {
-    "name": ["Unnamed", "CT Fakeduck"],
-    "weapon": "weapon_molotov",
-    "position": [251.70715332031, 153.50942993164, 59.320114135742],
-    "viewangles": [-5.9280624389648, -52.673503875732],
-    "grenade": {
-      "fov": 5.12,
-      "recovery_yaw": 0,
-      "jump": true
-    }
-  },
-  {
     "name": ["Ramp", "Fakeduck CT"],
     "weapon": "weapon_hegrenade",
     "position": [-758.72113037109, 786.70965576172, 36.03125],
@@ -294,6 +288,7 @@
   },
   {
     "name": ["here", "CT Fakeduck"],
+    "description": "17 fall damage",
     "weapon": "weapon_molotov",
     "position": [-1303.9683837891, 1095.9691162109, 32.093811035156],
     "viewangles": [1.756760025024, -36.840308380127],
@@ -349,8 +344,8 @@
     "position": [-901.66967773438, 882.26794433594, 35.03125],
     "viewangles": [6.0533866882324, -40.482410430908],
     "grenade": {
-      "fov": 5.12,
       "run": 9,
+      "fov": 5.12,
       "jump": true
     }
   },
@@ -393,8 +388,8 @@
     "viewangles": [-6.3407669067383, -48.76704788208],
     "grenade": {
       "strength": 0.5,
-      "run": 2,
       "recovery_yaw": -107,
+      "run": 2,
       "jump": true
     }
   },
@@ -405,8 +400,8 @@
     "viewangles": [3.5594725608826, -102.5372543335],
     "grenade": {
       "run": 1,
-      "run_speed": true,
-      "jump": true
+      "jump": true,
+      "run_speed": true
     }
   },
   {
@@ -415,8 +410,8 @@
     "position": [475.7038269043, -143.28500366211, 128.03125],
     "viewangles": [12.622547149658, 82.657707214355],
     "grenade": {
-      "recovery_jump": true,
       "recovery_yaw": 90,
+      "recovery_jump": true,
       "jump": true
     }
   },
@@ -426,8 +421,8 @@
     "position": [475.71447753906, -143.22451782227, 128.03125],
     "viewangles": [9.7427463531494, 86.619911193848],
     "grenade": {
-      "recovery_jump": true,
       "recovery_yaw": 90,
+      "recovery_jump": true,
       "jump": true
     }
   },
@@ -500,8 +495,8 @@
     "viewangles": [12.034832000732, 75.30354309082],
     "grenade": {
       "run": 1,
-      "run_speed": true,
-      "jump": true
+      "jump": true,
+      "run_speed": true
     }
   },
   {
@@ -511,9 +506,9 @@
     "viewangles": [-3.25541472435, -96.633666992188],
     "grenade": {
       "run": 1,
+      "run_yaw": 180,
       "run_speed": true,
       "delay": 11,
-      "run_yaw": 180,
       "jump": true
     }
   },
